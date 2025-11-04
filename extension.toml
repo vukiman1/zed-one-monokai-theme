@@ -1,0 +1,23 @@
+id = "onemomokai"
+name = "One Monokai"
+version = "1.0.0"
+schema_version = 1
+description = "One monokai theme"
+repository = "https://github.com/dracula/zed"
+authors = ["KimAn <kiman@gmail.com>"]
+themes = ["themes/onemomokai.json"]
+icon_themes = []
+languages = []
+capabilities = []
+
+[lib]
+
+[grammars]
+
+[language_servers]
+
+[context_servers]
+
+[slash_commands]
+
+[indexed_docs_providers]
